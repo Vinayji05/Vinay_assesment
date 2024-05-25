@@ -49,3 +49,35 @@ mintNFT("access",2010, "nepal", "pink");
 mintNFT("window",2005, "africa", "grey");
 listNFTs();
 getTotalSupply();
+
+output:
+Minted:metaserver
+Minted:Data
+Minted:access
+Minted:window
+
+ID: 1
+title: 	metaserver
+year: 	2002
+location: 	india
+color: 	yellow
+
+ID: 2
+title: 	Data
+year: 	2012
+location: 	russia
+color: 	blue
+
+ID: 3
+title: 	access
+year: 	2010
+location: 	nepal
+color: 	pink
+
+ID: 4
+title: 	window
+year: 	2005
+location: 	africa
+color: 	grey
+
+4
